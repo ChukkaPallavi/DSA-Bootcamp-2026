@@ -1,44 +1,44 @@
-# Day 2 - DSA Bootcamp
-
-## Date
-
 18 June 2026
 
-## Topics Covered
+## Morning Session
 
-### Morning Session
+* Revision of Time Complexity and Space Complexity
+* Solved problems based on algorithm efficiency
+* Introduction to Recursion
+* Practiced basic recursive algorithms
 
-* Time Complexity and Space Complexity
-* Solved problems involving time and space complexity
-* Analyzed algorithm efficiency
+## Afternoon Session
 
-### Afternoon Session
-
-* Introduction to Structures in C
-* Structure syntax and declaration
-* Executed basic structure programs
-* Introduction to Pointers
-* Executed basic pointer programs
+* Revision of Structures in C
+* Executed structure programs using student details
+* Practiced storing and displaying student information
+* Worked on multiple-student structure programs
 
 ## Key Learnings
 
-* Time Complexity measures the execution time of an algorithm.
-* Space Complexity measures the memory used by an algorithm.
-* Structures help group different data types into a single user-defined data type.
-* Pointers store memory addresses and are important in DSA.
+* Time Complexity measures the amount of time an algorithm takes to execute.
+* Space Complexity measures the amount of memory an algorithm uses.
+* Recursion is a technique where a function calls itself until a base condition is met.
+* Structures help combine different data types into a single user-defined data type.
+* Student records can be managed efficiently using structures.
 
 ## Programs Practiced
 
-1. Basic Structure Program
-2. Basic Pointer Program
+1. Student Details using Structure
+2. Structure Program for Multiple Students
+3. Recursive Program to Print Numbers
+4. Recursive Factorial Program
+5. Other Basic Recursion Problems
 
 ## Challenges Faced
 
-* Understanding pointer syntax and memory addresses.
-* Analyzing time and space complexity of solutions.
+* Understanding recursive function calls and base conditions.
+* Tracing the flow of recursive programs.
+* Managing structure data for multiple students.
 
 ## Next Goal
 
-* Practice more pointer programs.
-* Revise structures and complexity concepts.
-* Learn the next DSA topic.
+* Practice more recursion problems.
+* Revise structures thoroughly.
+* Learn Arrays and Searching techniques.
+* Improve problem-solving skills using DSA concepts.
