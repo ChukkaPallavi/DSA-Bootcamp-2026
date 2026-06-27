@@ -1,4 +1,4 @@
-# Day 6 – 23 July 2026
+## Day 6 – 23 July 2026
 
 # Topics Covered
 
