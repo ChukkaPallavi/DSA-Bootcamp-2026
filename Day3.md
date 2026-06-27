@@ -1,6 +1,6 @@
 19 July 2026
 
-### Morning Session
+## Morning Session
 
 * Practiced Structure programs based on student details.
 * Executed programs for a single student record.
@@ -16,7 +16,7 @@
   * Variable Initialization
 * Introduction to Data Structures.
 
-### Afternoon Session
+## Afternoon Session
 
 * Introduction to Arrays.
 * Array Syntax and Declaration.
@@ -32,7 +32,7 @@
 * Introduction to Linked Lists.
 * Discussed basic Linked List operations.
 
-### Key Learnings
+## Key Learnings
 
 * Functions help divide a program into reusable modules.
 * Arrays are used to store multiple values of the same data type.
@@ -41,20 +41,20 @@
 * Abstract Data Types define data behavior independently of implementation.
 * Linked Lists are dynamic data structures that store elements using nodes and pointers.
 
-### Programs Practiced
+## Programs Practiced
 
 1. Single Student Structure Program
 2. Multiple Student Structure Program
 3. Basic Pointer Program
 4. Structure and Pointer-based Programs
 
-### Challenges Faced
+## Challenges Faced
 
 * Understanding dynamic memory allocation concepts.
 * Visualizing how pointers work with linked lists.
 * Differentiating between static and dynamic memory allocation.
 
-### Next Goal
+## Next Goal
 
 * Practice Functions and Arrays.
 * Revise Pointers and Structures.
@@ -62,6 +62,6 @@
 * Learn Linked Lists with implementation examples.
 * Solve more DSA practice problems.
 
-### Note
+## Note
 
 Since the bootcamp duration is only 9 days, the trainers provided a basic overview of several DSA concepts to give us foundational knowledge. Detailed learning and practice of these topics will be done later through self-study and further coursework.
