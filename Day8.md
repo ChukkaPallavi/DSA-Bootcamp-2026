@@ -2,18 +2,18 @@
 
 ## Topics Covered
 
-### Tree Traversal
+## Tree Traversal
 
 * Inorder Traversal
 * Preorder Traversal
 * Postorder Traversal
 
-### Tree Representation
+## Tree Representation
 
 * Different methods of representing trees
 * Binary Tree representation
 
-### AVL Trees
+## AVL Trees
 
 * Introduction to AVL Trees
 * Balancing concepts
