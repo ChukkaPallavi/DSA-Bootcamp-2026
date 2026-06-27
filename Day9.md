@@ -2,7 +2,7 @@
 
 ## Topics Covered
 
-### Hashing
+## Hashing
 
 * Introduction to Hash Tables
 * Hashing Techniques
