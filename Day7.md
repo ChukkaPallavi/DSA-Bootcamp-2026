@@ -2,7 +2,7 @@
 
 ## Topics Covered
 
-### Searching Techniques
+## Searching Techniques
 
 * Introduction to Searching
 * Sequential (Linear) Searching
